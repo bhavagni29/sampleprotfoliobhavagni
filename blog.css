@@ -1,0 +1,67 @@
+body{
+    margin: 0rem;
+}
+header{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.blog1{
+    text-align: center;
+    background-color:green;
+    color: white;
+    padding-bottom: 20px;
+}
+.blog1 p{
+
+    font-size: 20px;
+}
+.ethnic-wear h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    background-color: black;
+    color: white;
+}
+.indo-western1{
+    text-align: center;
+
+}
+.ethnic-wear img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.ethnic-wear p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+    
+}
+.ethnic-wear h3{
+    font-size: 40px;
+    font-weight: bolder;
+    color: darkblue;
+    text-align: center;
+}
+footer i{
+    margin-left: 260px;
+    color: white;
+    
+}
+footer i:hover{
+    margin-left: 260px;
+    color:green;
+    
+}
+
+footer h4{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color:black;
+}
